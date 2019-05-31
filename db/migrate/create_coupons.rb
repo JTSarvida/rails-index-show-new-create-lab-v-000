@@ -1,0 +1,3 @@
+class CreateCoupons < ActiveRecord::Migration
+  def change
+    
